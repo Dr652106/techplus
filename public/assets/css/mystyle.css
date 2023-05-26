@@ -1,0 +1,11 @@
+.mytable{
+    width: 100%;
+    overflow: auto;
+}
+
+.mytable th,td{
+    border: 2px solid lightgray ;
+}
+.icon{
+    font-size: 30px;
+}
